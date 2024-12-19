@@ -4,11 +4,13 @@
 ![image](https://github.com/user-attachments/assets/92ee928f-335b-4450-8889-9397c4e9b212)
 
 Выдаем права read+write для producer и проверяем
+![image](https://github.com/user-attachments/assets/2464d242-82eb-4782-ab4f-3b6a7272d578)
+![image](https://github.com/user-attachments/assets/02a21d5a-83dc-43cf-a3ea-9d2bf9dff37d)
 
-![image](https://github.com/user-attachments/assets/cd908a01-d7e0-4760-bd62-6576ed6dec6e)
-![image](https://github.com/user-attachments/assets/f1e83512-12cb-4f0c-b89b-d1572b2daa11)
 
 Выдаем права read+execute для сonsumer и проверяем
+![image](https://github.com/user-attachments/assets/2464d242-82eb-4782-ab4f-3b6a7272d578)
+![image](https://github.com/user-attachments/assets/312927d4-d1ea-4101-b8be-6a75543249f1)
 
-![image](https://github.com/user-attachments/assets/f8fcc6de-39fa-45db-9065-532ff2af9cc8)
+
 
